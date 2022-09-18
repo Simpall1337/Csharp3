@@ -1,0 +1,16 @@
+C:\Users\sandu\source\repos\third\third\bin\Debug\net5.0\third.exe
+C:\Users\sandu\source\repos\third\third\bin\Debug\net5.0\third.deps.json
+C:\Users\sandu\source\repos\third\third\bin\Debug\net5.0\third.runtimeconfig.json
+C:\Users\sandu\source\repos\third\third\bin\Debug\net5.0\third.runtimeconfig.dev.json
+C:\Users\sandu\source\repos\third\third\bin\Debug\net5.0\third.dll
+C:\Users\sandu\source\repos\third\third\bin\Debug\net5.0\third.pdb
+C:\Users\sandu\source\repos\third\third\obj\Debug\net5.0\third.csproj.AssemblyReference.cache
+C:\Users\sandu\source\repos\third\third\obj\Debug\net5.0\third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandu\source\repos\third\third\obj\Debug\net5.0\third.AssemblyInfoInputs.cache
+C:\Users\sandu\source\repos\third\third\obj\Debug\net5.0\third.AssemblyInfo.cs
+C:\Users\sandu\source\repos\third\third\obj\Debug\net5.0\third.csproj.CoreCompileInputs.cache
+C:\Users\sandu\source\repos\third\third\obj\Debug\net5.0\third.dll
+C:\Users\sandu\source\repos\third\third\obj\Debug\net5.0\refint\third.dll
+C:\Users\sandu\source\repos\third\third\obj\Debug\net5.0\third.pdb
+C:\Users\sandu\source\repos\third\third\obj\Debug\net5.0\third.genruntimeconfig.cache
+C:\Users\sandu\source\repos\third\third\obj\Debug\net5.0\ref\third.dll
